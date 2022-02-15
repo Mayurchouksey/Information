@@ -2,8 +2,8 @@
 <html>
 <head>
    <title> form </title>
-< /Head>
-<Body>
+</head>
+<body>
 Hello world 
 I am mayur 
 My first webpages. 
